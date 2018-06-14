@@ -1,4 +1,4 @@
-**DEPRECIATED. Information in this guide has been moved to the [18F Handbook](https://handbook.18f.gov/blogging/) and to the [README of the blog-drafts repo (private)](https://github.com/18F/blog-drafts/blob/master/README.md).**
+**DEPRECATED. Information in this guide has been moved to the [18F Handbook](https://handbook.18f.gov/blogging/) and to the [README of the blog-drafts repo (private)](https://github.com/18F/blog-drafts/blob/master/README.md).**
 
 ## 18F Blogging Guide
 
